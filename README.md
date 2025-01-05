@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Difio3333
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Gamedev via Godot and Unreal 5 as well coding projects in Python.
+- 🌱 I’m currently learning GDScript & Python
 - 📫 How to reach me slaythetext@gmail.com
 
 <!---
